@@ -1,0 +1,1 @@
+make changes in .bas then run ".\zmakebas -o notakto.tap notakto.bas" to generate corresponding .tap file then run the .tap file in any zx spectrum or emulator (for example: fuse).
